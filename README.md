@@ -1,2 +1,2 @@
-# leadzard
-An ai powered open source lead generation app for early founders or anybody
+# LeadZard
+An open-source, AI-driven lead generation app designed for early-stage founders, indie hackers, marketers, and anyone who wants to find their ideal audience with just a single prompt. Just describe your product or target user, and Leadzard uses AI to find the right audience, suggest the best platforms, generate smart Google search queries, and extract useful public data — all in one simple flow.
